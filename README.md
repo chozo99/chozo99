@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Software Engineer
 - 👀 I’m interested in open source contribute.
-- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 
 - my contribution list
