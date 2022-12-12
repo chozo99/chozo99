@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Software Engineer
-- 👀 I’m interested in open source contribute.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in open source contribution.
+- 💞️ I'm looking for what to do.
 
-- my contribution list
+### my contribution list
 - https://github.com/Thriftpy/thriftpy2/pull/202
 - https://github.com/neo4j/graph-data-science/pull/138
 - https://github.com/SeleniumHQ/selenium/pull/9981
